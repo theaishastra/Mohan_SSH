@@ -1,2 +1,2 @@
-User_Name=Mohan
-Pass_word=Vamsi
+User_Name=Vamsi
+Pass_word=Krishna
